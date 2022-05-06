@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A passionate Python developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, MYSQL**
+- 🌱 I’m currently learning **Django, MYSQL**
 
 - 📫 How to reach me **pedroribeirobarrios@gmail.com**
 
